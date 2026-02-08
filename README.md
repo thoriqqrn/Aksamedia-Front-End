@@ -85,10 +85,7 @@ _Halaman CRUD dengan fitur search, pagination, dan tabel data responsive._
 ![Profile Page](./screenshots/profile.png)
 _Halaman untuk mengedit nama lengkap user. Perubahan akan langsung terlihat di navbar._
 
-### Dark Mode
 
-![Dark Mode](./screenshots/darkmode_screenshot.png)
-_Tampilan dark mode dengan theme switcher dropdown._
 
 ---
 
@@ -244,6 +241,7 @@ Hasil build ada di folder `dist/`. Upload folder ini ke hosting platform seperti
 ---
 
 ## 👨‍💻 Author
+Athariq Qur'ani Fajri
 
 **Frontend Developer Intern Test**  
 PT Aksamedia Mulia Digital
